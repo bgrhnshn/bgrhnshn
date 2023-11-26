@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bugrahan.</h1>
 <h3 align="center">A highly motivated DevSecOps Engineer experienced in architectural design, implementation, and development in AWS cloud infrastructure. I'm passionate with AWS Serverless technologies, DevSecOps automation concepts, API integrations and microservices architectural designs with Docker technology. Also, I work on Cloud Security concepts and Vulnerability Management.</h3>
 
-- 🌱 I’m currently learning **Terraform and other IaaS concepts.**
+- 🌱 I’m currently learning **Terraform and other IaC concepts.**
 
 - 💬 Ask me about **AWS Serverless.**
 
